@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">taskActivities</string>
+    <string name="start_blue_btn_activity">Start BlueButtonActivity</string>
+    <string name="start_red_btn_activity">Start RedButtonActivity</string>
+    <string name="return_to_main_activity">Return to MainActivity</string>
+</resources>
