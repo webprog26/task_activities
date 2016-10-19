@@ -32,7 +32,7 @@ public abstract class ParentActivity extends AppCompatActivity implements View.O
 
     /**
      * Initializes Toolbar with Activity title
-     * @return button
+     * @return toolbar
      */
     protected abstract Toolbar getToolbar();
 
